@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         </p>
-     <h1>I changed this, now what?</h1>
+     <h1>I changed this, now what? It's running on :3002</h1>
       </header>
     </div>
   );

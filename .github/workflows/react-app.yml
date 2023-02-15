@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: leuconxyz/brightstarts-leonardoramos:4
+        tags: leuconxyz/brightstarts-leonardoramos:11
